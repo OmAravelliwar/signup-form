@@ -31,10 +31,10 @@ This project demonstrates how to create a fully functional and stylish contact f
 ![Screenshot 2025-05-16 164542](https://github.com/user-attachments/assets/81d481ae-84f5-4967-9f00-aa655221a3b4)
 
 ### 📥 PHP Code to Insert Data
----![Screenshot 2025-05-16 164140](https://github.com/user-attachments/assets/f8eb7b31-e5dc-43f9-b79e-d3a86f844d79)
+![Screenshot 2025-05-16 164140](https://github.com/user-attachments/assets/f8eb7b31-e5dc-43f9-b79e-d3a86f844d79)
 
 ### MariaDB Table
----![Screenshot 2025-05-16 170410](https://github.com/user-attachments/assets/fd05ca67-1bbb-4261-84d6-2bb3629a69a4)
+![Screenshot 2025-05-16 170410](https://github.com/user-attachments/assets/fd05ca67-1bbb-4261-84d6-2bb3629a69a4)
 
 ## ⚙️ How it Works
 
