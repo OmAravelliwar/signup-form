@@ -28,7 +28,7 @@ This project demonstrates how to create a fully functional and stylish contact f
 ## 📸 Screenshots
 
 ### 📝 Form UI
-"Screenshot 2025-05-16 164542.png"
+<img src="C:\Users\asus\OneDrive\Pictures\Screenshots\Screenshot 2025-05-16 164542.png" alt="2025-04-06_18-15" style="max-width: 100%;">
 
 ### 📥 Stored Data in MySQL
 ![Database Output](./screenshots/database_view.png)
